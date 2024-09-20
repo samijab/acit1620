@@ -1,0 +1,37 @@
+* {font-weight: bold;
+}
+	body {
+	font-family: sans-serif;
+	
+}
+
+h1,h2 {
+	color: gray;
+  }
+ h1{ 
+  border-bottom: 1px solid black; 
+ }
+
+  p{
+	color: red;
+  }
+
+em {
+	font-family: sans-serif;
+}
+
+p.greentea {
+	color: green;
+}
+
+p.raspberry {
+	color: blue;
+}
+
+p.cranberry {
+	color: maroon;
+}
+
+p.blueberry {
+	color: rgb(51, 0, 128);
+}
